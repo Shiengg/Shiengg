@@ -6,4 +6,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### <samp>Delighted to see you here! &nbsp;
 
-<samp> As a student
+<samp> Hello! I am a Software Engineering student with a strong passion for developing innovative solutions. I have experience in both frontend and backend development, and I enjoy exploring machine learning. I am always seeking opportunities to apply my knowledge and skills to real-world projects, creating products that have a positive impact.
