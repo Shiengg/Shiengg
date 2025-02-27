@@ -10,3 +10,13 @@
 <samp> Hello! I am a Software Engineering student with a strong passion for developing innovative solutions. I have experience in both frontend and backend development, and I enjoy exploring machine learning. I am always seeking opportunities to apply my knowledge and skills to real-world projects, creating products that have a positive impact.
 
 -   <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <samp>[Resume](#).
+##  Skills
+
+I have experience with a variety of programming languages and technologies, including:
+
+- **Programming Languages**: JavaScript, Java, C#
+- **Front-end**: ReactJS, React Native, Bootstrap, Tailwind, Material UI
+- **Back-end**:  NodeJS, ExpressJS, Spring Boot, ASP.NET
+- **Databases**:  MongoDB, MySQL, Firebase
+- **Version Control**: Git, Github
+- **Tools**: Redux, Context API, Figma, Docker, Postman
