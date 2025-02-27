@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ntann.204/) 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shieng.work)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### <samp>Delighted to see you here! &nbsp;
 
