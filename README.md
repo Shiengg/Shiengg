@@ -19,4 +19,4 @@ I have experience with a variety of programming languages and technologies, incl
 - **Back-end**:  NodeJS, ExpressJS, Spring Boot, ASP.NET
 - **Databases**:  MongoDB, MySQL, Firebase
 - **Version Control**: Git, Github
-- **Tools**: Redux, Context API, Figma, Docker, Postman
+- **Tools**: Figma, Postman
