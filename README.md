@@ -15,7 +15,7 @@
 I have experience with a variety of programming languages and technologies, including:
 
 - **Programming Languages**: JavaScript, Java, C#
-- **Front-end**: ReactJS, React Native, Bootstrap, Tailwind, Material UI, Kotlin
+- **Front-end**: ReactJS, React Native, Bootstrap, Tailwind, Material UI
 - **Back-end**:  NodeJS, ExpressJS, Spring Boot, ASP.NET
 - **Databases**:  MongoDB, MySQL, Firebase
 - **Version Control**: Git, Github
