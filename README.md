@@ -18,8 +18,8 @@ I have experience with a variety of programming languages and technologies, incl
 - **Front-end**: ReactJS, React Native, Bootstrap, Tailwind, Material UI
 - **Back-end**:  NodeJS, ExpressJS, Spring Boot, ASP.NET
 - **Databases**:  MongoDB, MySQL, Firebase
-- **Version Control**: Git, Github
-- **Tools**: Figma, Postman
+- **Version Control**: Git, GitHub, GitLab
+- **Tools**: Figma, Postman, Bruno
 
 ## More about me
 - View my project on **[Portfolio](https://shieng.work/)**
